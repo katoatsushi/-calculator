@@ -1,0 +1,16 @@
+/Users/katoatsushi/Desktop/calculator/calculator/bin/Debug/calculator.exe
+/Users/katoatsushi/Desktop/calculator/calculator/bin/Debug/calculator.pdb
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/actool/_PartialAppManifest.items
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/coremlc/_PartialAppManifest.items
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/_ProcessedBundleResourcesPath.items
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/_ProcessedContentPath.items
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/calculator.csproj.AssemblyReference.cache
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/calculator.csproj.CoreCompileInputs.cache
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/calculator.exe
+/Users/katoatsushi/Desktop/calculator/calculator/obj/Debug/calculator.pdb

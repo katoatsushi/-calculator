@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9D6152F5-C69C-436A-8155-2B73144F17E0}|Default">
+  <MonoDevelop.Ide.ItemProperties.calculator PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="calculator/ViewController.cs">
+    <Files>
+      <File FileName="calculator/ViewController.cs" Line="207" Column="22" />
+      <File FileName="calculator/Main.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="calculator" expanded="True">
+            <Node name="calculator" expanded="True">
+              <Node name="ViewController.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
